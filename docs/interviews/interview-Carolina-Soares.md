@@ -37,7 +37,7 @@
 **Resposta:**
 
 > "A maioria dos lugares não possui divulgação adequada nem informações organizadas sobre horários e novidades.
-
+>
 > Já deixei de visitar alguns lugares por não encontrar informações suficientes ou confiáveis, principalmente quando não utilizo redes sociais."
 
 ---

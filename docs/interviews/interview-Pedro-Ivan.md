@@ -21,7 +21,7 @@
 **Resposta:**
 
 > "Geralmente descubro novos estabelecimentos e locais por meio de redes sociais, principalmente através de vídeos que promovem esses espaços.
-
+>
 > A minha maior dificuldade está relacionada à divulgação dos locais. A maioria dos lugares que conheço aparece por acaso no feed das redes sociais. Um exemplo disso é a **Trilha da Bebida da Onça**, uma trilha muito bonita que as pessoas costumam postar nas redes sociais, mas sem explicar claramente como chegar até lá."
 
 ---

@@ -69,7 +69,7 @@
 **Resposta:**
 
 > "Na verdade, não costumo buscar muito. Quando se fala em turismo em Juazeiro, normalmente tudo gira em torno do Padre Cícero. Acabo descobrindo outros lugares através das pessoas e também porque participo de uma bolsa voltada para extensão, o que me faz conhecer iniciativas diferentes.
-
+>
 > Também utilizo algumas ferramentas como o Mapa Cultural do Ceará, o Cariri Criativo, o TikTok (para descobrir restaurantes e bares) e o Google Maps."
 
 ---
@@ -79,7 +79,7 @@
 **Resposta:**
 
 > "Sim. Principalmente quando se trata de espaços culturais. Muitas vezes as informações não estão no Google porque são iniciativas independentes. Acaba sendo fácil perder experiências interessantes por falta de divulgação.
-
+>
 > Muitas iniciativas culturais não divulgam bem suas informações. Isso dificulta encontrar horários, localização e detalhes dos eventos. Já deixei de visitar lugares porque as informações eram insuficientes. Um exemplo foi um bar próximo à Praça Francisco, cuja entrada era escondida e sem identificação clara."
 
 ---
@@ -89,7 +89,7 @@
 **Resposta:**
 
 > "Antes da visita, gostaria de saber se há cobrança de couvert, a faixa de preços, o tipo de experiência oferecida, se o local parece interessante e diferente, informações sobre acessibilidade e como chegar ao local.
-
+>
 > Durante a visita, considero importante ter placas explicativas, informações históricas sobre os locais, contextualização cultural dos espaços visitados e a presença de guias turísticos. Seria legal ter uma pessoa guiando, falando o que aconteceu, o que eles fazem, enfim.
 > Quando preciso tirar dúvidas sobre um local, confio principalmente em amigos que já visitaram o lugar e em informações do Google Maps."
 
@@ -100,7 +100,7 @@
 **Resposta:**
 
 > "Eu descubro através de divulgação em redes sociais, publicações compartilhadas por conhecidos e pesquisa ativa.
-
+>
 > As principais dificuldades são a dependência do algoritmo do Instagram, a divulgação limitada e a necessidade de pesquisar profundamente para encontrar eventos culturais."
 
 ---
