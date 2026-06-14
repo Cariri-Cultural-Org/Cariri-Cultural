@@ -1,11 +1,10 @@
 # Gráficos do Survey
 
-
 ---
 
 ## Gráfico 01 — Perfil dos respondentes
 
-![Gráfico 01 — Perfil dos respondentes](./grafico-01-perfil-dos-respondentes.png)
+![Gráfico 01 — Perfil dos respondentes](./graphics/grafico-01-perfil-dos-respondentes.png.jpeg)
 
 **Pergunta:** Você mora na região do Cariri ou está visitando?  
 **Total de respostas:** 29.
@@ -16,7 +15,7 @@
 
 ## Gráfico 02 — Frequência com que os respondentes conhecem lugares novos
 
-![Gráfico 02 — Frequência com que os respondentes conhecem lugares novos](./grafico-02-frequencia-conhecer-lugares.png)
+![Gráfico 02 — Frequência com que os respondentes conhecem lugares novos](./graphics/grafico-02-frequencia-conhecer-lugares.png.jpeg)
 
 **Pergunta:** Com que frequência você costuma conhecer lugares novos na região?  
 **Total de respostas:** 29.
@@ -27,7 +26,7 @@
 
 ## Gráfico 03 — Fontes usadas para buscar informações
 
-![Gráfico 03 — Fontes usadas para buscar informações](./grafico-03-fontes-de-informacao.png)
+![Gráfico 03 — Fontes usadas para buscar informações](./graphics/grafico-03-fontes-de-informacao.png.jpeg)
 
 **Pergunta:** Onde você costuma buscar informações sobre lugares, restaurantes, eventos ou atrações no Cariri?  
 **Total de respostas:** 29.
@@ -38,7 +37,7 @@
 
 ## Gráfico 04 — Maiores dificuldades para descobrir lugares ou eventos
 
-![Gráfico 04 — Maiores dificuldades para descobrir lugares ou eventos](./grafico-04-dificuldades-descoberta.png)
+![Gráfico 04 — Maiores dificuldades para descobrir lugares ou eventos](./graphics/grafico-04-dificuldades-descoberta.png.jpeg)
 
 **Pergunta:** Qual é a maior dificuldade ao tentar descobrir lugares ou eventos na região?  
 **Total de respostas:** 29.
@@ -49,7 +48,7 @@
 
 ## Gráfico 05 — Desistência por falta de informação
 
-![Gráfico 05 — Desistência por falta de informação](./grafico-05-deixou-de-visitar.png)
+![Gráfico 05 — Desistência por falta de informação](./graphics/grafico-05-deixou-de-visitar.png.jpeg)
 
 **Pergunta:** Você já deixou de visitar algum lugar por falta de informação suficiente ou confiável?  
 **Total de respostas:** 29.
@@ -60,7 +59,7 @@
 
 ## Gráfico 06 — Informações consideradas mais importantes antes da visita
 
-![Gráfico 06 — Informações consideradas mais importantes antes da visita](./grafico-06-informacoes-antes-da-visita.png)
+![Gráfico 06 — Informações consideradas mais importantes antes da visita](./graphics/grafico-06-informacoes-antes-da-visita.jpeg)
 
 **Pergunta:** Antes de visitar um lugar novo, quais informações você considera mais importantes?  
 **Total de respostas:** 29.
@@ -71,7 +70,7 @@
 
 ## Gráfico 07 — Necessidades relacionadas a eventos culturais
 
-![Gráfico 07 — Necessidades relacionadas a eventos culturais](./grafico-07-eventos-culturais.png)
+![Gráfico 07 — Necessidades relacionadas a eventos culturais](./graphics/grafico-07-eventos-culturais.jpeg)
 
 **Pergunta:** Em relação aos eventos culturais da região, o que você mais sente falta?  
 **Total de respostas:** 29.
@@ -82,7 +81,7 @@
 
 ## Gráfico 08 — Interesse em usar uma plataforma centralizada
 
-![Gráfico 08 — Interesse em usar uma plataforma centralizada](./grafico-08-interesse-na-plataforma.png)
+![Gráfico 08 — Interesse em usar uma plataforma centralizada](./graphics/grafico-08-interesse-na-plataforma.jpeg)
 
 **Pergunta:** O quanto você usaria uma plataforma que reunisse pontos turísticos, restaurantes, eventos, avaliações, horários e informações culturais do Cariri em um só lugar?  
 **Total de respostas:** 29.
@@ -93,7 +92,7 @@
 
 ## Gráfico 09 — Funcionalidades consideradas mais úteis
 
-![Gráfico 09 — Funcionalidades consideradas mais úteis](./grafico-09-funcionalidades-uteis.png)
+![Gráfico 09 — Funcionalidades consideradas mais úteis](./graphics/grafico-09-funcionalidades-uteis.jpeg)
 
 **Pergunta:** Quais funcionalidades seriam mais úteis para você em uma plataforma como o Cariri Cultural?  
 **Total de respostas:** 29.
@@ -104,7 +103,7 @@
 
 ## Gráfico 10 — Dúvidas que o assistente conversacional deve responder
 
-![Gráfico 10 — Dúvidas que o assistente conversacional deve responder](./grafico-10-duvidas-chatbot.png)
+![Gráfico 10 — Dúvidas que o assistente conversacional deve responder](./graphics/grafico-10-duvidas-chatbot.jpeg)
 
 **Pergunta:** Se existisse um assistente conversacional dentro da plataforma, que tipo de dúvida você gostaria que ele respondesse?  
 **Total de respostas:** 29.
