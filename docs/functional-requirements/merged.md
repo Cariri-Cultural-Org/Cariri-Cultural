@@ -1,28 +1,63 @@
 ## Requisitos Funcionais
 
-| id | requisito | prioridade |
-| --- | --- | --- |
-| RF-001 | O sistema deve centralizar informacoes sobre atracoes turisticas, culturais, gastronomicas, comerciais, de lazer, eventos e experiencias do Cariri em uma unica plataforma. |  |
-| RF-002 | O sistema deve disponibilizar um catalogo regional consultavel de lugares, estabelecimentos, eventos e experiencias cadastradas. |  |
-| RF-003 | O sistema deve destacar lugares, eventos, iniciativas culturais, novidades, locais populares, locais em alta, recem-cadastrados e experiencias pouco divulgadas. |  |
-| RF-004 | O sistema deve permitir pesquisa de locais e eventos por palavras-chave, nome, categoria e cidade. |  |
-| RF-005 | O sistema deve exibir mensagem de "sem resultados" com sugestoes alternativas de termos, categorias ou acoes quando nenhuma opcao for encontrada. |  |
-| RF-006 | O sistema deve permitir filtragem de locais e eventos por categoria e adequacao ao publico, incluindo criancas e familia. |  |
-| RF-007 | O sistema deve exibir pagina detalhada dos locais cadastrados com resumo objetivo, descricao, categoria, cidade, tipo de experiencia, atividades disponiveis, contatos quando aplicavel e demais informacoes relevantes. |  |
-| RF-008 | O sistema deve exibir fotos, midias e caracteristicas do ambiente dos locais e estabelecimentos cadastrados. |  |
-| RF-009 | O sistema deve disponibilizar horarios de funcionamento dos locais, incluindo status "aberto agora", funcionamento noturno e suporte a consulta ou filtro por restricoes de horario. |  |
-| RF-010 | O sistema deve disponibilizar cardapio, faixa de precos, taxas, couvert artistico e demais valores aplicaveis aos locais cadastrados. |  |
-| RF-011 | O sistema deve informar localizacao, perfil do bairro ou entorno, mapa, trajetos, orientacoes de acesso, opcoes de transporte, distancia a pe e estabelecimentos gastronomicos ou comerciais proximos. |  |
-| RF-012 | O sistema deve exibir informacoes estruturadas e qualitativas de seguranca, higiene, limpeza, iluminacao, movimentacao, presenca de seguranca, acessibilidade e adequacao a criancas ou familia. |  |
-| RF-013 | O sistema deve disponibilizar calendario e detalhes de eventos, programacoes musicais e atividades programadas, incluindo data, horario, local e descricao. |  |
-| RF-014 | O sistema deve disponibilizar canais de contato atualizados dos estabelecimentos cadastrados. |  |
-| RF-015 | O sistema deve disponibilizar informacoes historicas, culturais e sociais relacionadas aos locais cadastrados e a cultura regional. |  |
-| RF-016 | O sistema deve permitir a visualizacao de avaliacoes e comentarios de visitantes, incluindo campos ou indicadores sobre seguranca, limpeza, higiene e ambiente. |  |
-| RF-017 | O sistema deve permitir que usuarios publiquem avaliacoes e comentarios sobre os locais visitados. |  |
-| RF-018 | O sistema deve recomendar lugares, experiencias e roteiros turisticos ou culturais com base em preferencias culturais e gastronomicas, avaliacoes de usuarios e perfis similares. |  |
-| RF-019 | O sistema deve permitir criacao de listas de locais desejados, registro de locais visitados e checklists de atividades, experiencias e passeios. |  |
-| RF-020 | O sistema deve disponibilizar assistente virtual ou FAQ para responder duvidas sobre locais, eventos, seguranca, atendimento, atividades e aspectos culturais da regiao. |  |
-| RF-021 | O assistente deve considerar preferencias culturais e gastronomicas do usuario, historico da conversa, contexto e intencao da pergunta antes de buscar ou apresentar informacoes. |  |
-| RF-022 | O assistente deve informar claramente quando nao encontrar informacoes e oferecer alternativas de acao sem encerrar o fluxo abruptamente. |  |
-| RF-023 | O sistema deve oferecer acesso ao assistente IA diretamente a partir da tela de resultados de busca. |  |
-| RF-024 | O sistema deve manter informacoes atualizadas, confiaveis e consistentes sobre locais, estabelecimentos, eventos e novidades da regiao. |  |
+### Épico 1: Exploração e Descoberta
+
+| id     | requisito                                                                                                                           | prioridade |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-001 | O sistema deve disponibilizar um catálogo regional unificado de locais turísticos, culturais, gastronômicos, comerciais e de lazer. |            |
+| RF-002 | O sistema deve exibir listas de locais e experiências com alta visitação ou popularidade.                                           |            |
+| RF-003 | O sistema deve exibir listas de locais e experiências pouco divulgadas ou alternativas.                                             |            |
+| RF-004 | O sistema deve permitir pesquisa de locais e eventos por palavras-chave, nome, categoria e cidade.                                  |            |
+| RF-005 | O sistema deve fornecer sugestões alternativas (termos ou categorias) quando uma busca não retornar resultados.                     |            |
+| RF-006 | O sistema deve permitir a filtragem de locais e eventos por categoria e adequação ao público (ex: infantil, famílias).              |            |
+
+### Épico 2: Informações e Detalhes do Local
+
+| id     | requisito                                                                                                                                 | prioridade |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-007 | O sistema deve exibir informações descritivas básicas do local, como resumo contextual, categoria e tipo de experiência.                  |            |
+| RF-008 | O sistema deve exibir fotos, mídias e características do ambiente físico dos locais.                                                      |            |
+| RF-009 | O sistema deve exibir horários de funcionamento, status atual (aberto/fechado) e indicar possíveis opções de atividades noturnas.         |            |
+| RF-010 | O sistema deve disponibilizar informações financeiras, incluindo cardápio, faixa de preços, taxas e couvert artístico (quando aplicável). |            |
+| RF-011 | O sistema deve apresentar dados de localização, trajeto, formas de acesso, opções de transporte e estabelecimentos próximos.              |            |
+| RF-012 | O sistema deve disponibilizar informações específicas sobre a segurança do local e de seu entorno.                                        |            |
+| RF-013 | O sistema deve disponibilizar informações qualitativas sobre as condições de higiene do estabelecimento.                                  |            |
+| RF-014 | O sistema deve indicar de forma clara os recursos de acessibilidade disponíveis no local.                                                 |            |
+| RF-015 | O sistema deve informar se o local conta com estrutura e adequação para receber o público infantil.                                       |            |
+| RF-016 | O sistema deve exibir calendário e detalhes, como programações musicais, datas e horários dos eventos cadastrados.                        |            |
+| RF-017 | O sistema deve informar os canais de contato atualizados do estabelecimento de forma acessível.                                           |            |
+| RF-018 | O sistema deve fornecer informações e curiosidades históricas, culturais e sociais relacionadas aos locais da região.                     |            |
+
+### Épico 3: Avaliações e Comunidade
+
+| id     | requisito                                                                                                                   | prioridade |
+| ------ | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-019 | O sistema deve exibir avaliações e comentários públicos deixados por outros visitantes sobre os locais.                     |            |
+| RF-020 | O sistema deve permitir que o usuário publique suas próprias avaliações e comentários a respeito dos locais e experiências. |            |
+
+### Épico 4: Recomendações Personalizadas
+
+| id     | requisito                                                                                                                        | prioridade |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-021 | O sistema deve exibir recomendações de locais com base no histórico de visitas anteriores do usuário.                            |            |
+| RF-022 | O sistema deve fornecer recomendações de locais alinhadas às avaliações realizadas pelo usuário.                                 |            |
+| RF-023 | O sistema deve sugerir locais considerando os interesses de usuários com perfis compatíveis (filtragem de interesses similares). |            |
+| RF-024 | O sistema deve gerar e recomendar roteiros elaborados e personalizados de passeios de acordo com o interesse do usuário.         |            |
+
+### Épico 5: Organização Pessoal e Roteiros
+
+| id     | requisito                                                                                                   | prioridade |
+| ------ | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-025 | O sistema deve permitir criar, organizar e gerenciar listas de locais que o usuário tem desejo de visitar.  |            |
+| RF-026 | O sistema deve permitir que o usuário sinalize e registre os locais físicos que já visitou no passado.      |            |
+| RF-027 | O sistema deve disponibilizar checklists de apoio para acompanhamento das atividades e passeios do usuário. |            |
+
+### Épico 6: Assistente Virtual (Chatbot)
+
+| id     | requisito                                                                                                                                                    | prioridade |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| RF-028 | O sistema deve disponibilizar um assistente virtual conversacional para responder dúvidas de lugares e eventos.                                              |            |
+| RF-029 | O sistema deve ser capaz de interpretar a intenção de busca do usuário no assistente virtual para retornar as informações ou recomendações mais pertinentes. |            |
+| RF-030 | O sistema deve orientar alternativas ou repasses no próprio assistente quando este não possuir a informação exata.                                           |            |
+| RF-031 | O sistema deve permitir acionar o assistente de forma contextualizada, permitindo a continuidade direta de uma pesquisa em andamento.                        |            |
+| RF-032 | O sistema deve disponibilizar um módulo para importar e atualizar as informações de locais e eventos a partir de fontes de dados externas.                   |            |
