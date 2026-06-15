@@ -59,31 +59,26 @@ O usuário deseja encontrar rapidamente locais ou eventos de interesse.
 
 O usuário deseja analisar se um local atende suas expectativas antes da visita.
 
-### 3.1 Acessar página detalhada
+### 3.1 Consultar informações básicas
+* 3.1.1 Ver resumo contextual
+* 3.1.2 Ver categoria
+* 3.1.3 Ver tipo de experiência
 
-* 3.1.1 Selecionar local
-* 3.1.2 Visualizar descrição
-* 3.1.3 Visualizar categoria
-* 3.1.4 Visualizar atividades disponíveis
+### 3.2 Analisar ambiente
+* 3.2.1 Ver fotos
+* 3.2.2 Ver mídias
+* 3.2.3 Ver características físicas
 
-### 3.2 Analisar características do ambiente
-
-* 3.2.1 Visualizar fotografias
-* 3.2.2 Visualizar mídias complementares
-* 3.2.3 Avaliar características do espaço
-
-### 3.3 Consultar informações operacionais
-
-* 3.3.1 Verificar horário de funcionamento
-* 3.3.2 Verificar status de abertura
-* 3.3.3 Verificar funcionamento noturno
+### 3.3 Consultar funcionamento
+* 3.3.1 Ver horários
+* 3.3.2 Ver status aberto/fechado
+* 3.3.3 Ver atividades noturnas
 
 ### 3.4 Consultar informações financeiras
-
-* 3.4.1 Visualizar cardápio
-* 3.4.2 Consultar faixa de preços
-* 3.4.3 Consultar taxas aplicáveis
-* 3.4.4 Consultar couvert artístico
+* 3.4.1 Ver cardápio
+* 3.4.2 Ver faixa de preços
+* 3.4.3 Ver taxas
+* 3.4.4 Ver couvert artístico
 
 **Requisitos relacionados:** RF-007, RF-008, RF-009, RF-010
 
@@ -105,14 +100,27 @@ O usuário deseja organizar seu deslocamento e verificar a adequação do local.
 * 4.2.2 Consultar distância
 * 4.2.3 Identificar estabelecimentos próximos
 
-### 4.3 Avaliar adequação do local
+### 4.3 Avaliar segurança do local
 
 * 4.3.1 Consultar informações de segurança
-* 4.3.2 Consultar informações de higiene
-* 4.3.3 Consultar recursos de acessibilidade
-* 4.3.4 Consultar adequação para crianças e famílias
+* 4.3.2 Consultar informações sobre o entorno
 
-**Requisitos relacionados:** RF-011, RF-012
+### 4.4 Avaliar condições de higiene
+
+* 4.4.1 Consultar informações de higiene
+* 4.4.2 Consultar informações de limpeza
+
+### 4.5 Avaliar acessibilidade
+
+* 4.5.1 Consultar recursos de acessibilidade disponíveis
+* 4.5.2 Verificar adequação para pessoas com deficiência
+
+### 4.6 Avaliar adequação ao público infantil
+
+* 4.6.1 Consultar estrutura para crianças
+* 4.6.2 Verificar adequação para famílias
+
+**Requisitos relacionados:** RF-011, RF-012, RF-013, RF-014, RF-015
 
 ---
 
@@ -173,18 +181,31 @@ O usuário deseja organizar seu deslocamento e verificar a adequação do local.
 
 ## 8. Receber recomendações personalizadas
 
-### 8.1 Solicitar recomendações
+### 8.1 Receber recomendações com base no histórico de visitas
 
-* 8.1.1 Informar preferências
-* 8.1.2 Consultar sugestões geradas
+* 8.1.1 Consultar histórico de visitas
+* 8.1.2 Analisar locais visitados anteriormente
+* 8.1.3 Visualizar recomendações sugeridas
 
-### 8.2 Avaliar recomendações
+### 8.2 Receber recomendações com base em avaliações realizadas
 
-* 8.2.1 Visualizar locais recomendados
-* 8.2.2 Visualizar roteiros sugeridos
-* 8.2.3 Selecionar opção de interesse
+* 8.2.1 Consultar avaliações anteriores
+* 8.2.2 Identificar preferências implícitas
+* 8.2.3 Visualizar recomendações sugeridas
 
-**Requisitos relacionados:** RF-018
+### 8.3 Receber recomendações baseadas em usuários semelhantes
+
+* 8.3.1 Identificar perfis compatíveis
+* 8.3.2 Comparar interesses em comum
+* 8.3.3 Visualizar recomendações sugeridas
+
+### 8.4 Receber roteiros personalizados
+
+* 8.4.1 Informar interesses e preferências
+* 8.4.2 Gerar roteiro personalizado
+* 8.4.3 Visualizar roteiro recomendado
+
+**Requisitos relacionados:** RF-021, RF-022, RF-023, RF-024
 
 ---
 
@@ -206,6 +227,8 @@ O usuário deseja organizar seu deslocamento e verificar a adequação do local.
 
 ## 10. Utilizar assistente virtual
 
+O usuário deseja obter informações, recomendações e suporte por meio de um assistente virtual conversacional.
+
 ### 10.1 Consultar assistente
 
 * 10.1.1 Acessar assistente virtual
@@ -214,17 +237,21 @@ O usuário deseja organizar seu deslocamento e verificar a adequação do local.
 
 ### 10.2 Receber respostas contextualizadas
 
-* 10.2.1 Informar preferências pessoais
-* 10.2.2 Receber recomendações personalizadas
+* 10.2.1 Interpretar intenção da consulta
+* 10.2.2 Identificar contexto da solicitação
+* 10.2.3 Buscar informações relevantes
+* 10.2.4 Apresentar resposta ao usuário
 
-### 10.3 Tratar ausência de resposta
+### 10.3 Tratar ausência de informação
 
-* 10.3.1 Receber explicação da limitação
-* 10.3.2 Analisar alternativas sugeridas
+* 10.3.1 Informar indisponibilidade da resposta
+* 10.3.2 Apresentar alternativas de consulta
+* 10.3.3 Orientar próximos passos
 
-### 10.4 Acessar assistente a partir da busca
+### 10.4 Continuar pesquisas utilizando o assistente
 
-* 10.4.1 Abrir assistente pela tela de resultados
-* 10.4.2 Continuar pesquisa utilizando IA
+* 10.4.1 Acionar assistente a partir da busca
+* 10.4.2 Transferir contexto da pesquisa atual
+* 10.4.3 Continuar consulta sem reiniciar o processo
 
-**Requisitos relacionados:** RF-020, RF-021, RF-022, RF-023
+**Requisitos relacionados:** RF-028, RF-029, RF-030, RF-031
